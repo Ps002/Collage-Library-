@@ -22,7 +22,7 @@ public class AddDeleteFrame extends javax.swing.JFrame {
     /**
      * Creates new form AddDeleteFrame
      */
-    private int digit;
+    
     private int alpha;
     private int deleteid;
     private int newid;
